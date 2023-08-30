@@ -1,1 +1,2 @@
-# IrisClassification
+# Iris Classification
+Iris flower categorization stands as a highly renowned endeavor in the realm of machine learning. The iris dataset encompasses a trio of flower categories: Versicolor, Setosa, and Virginica. Each of these classes is characterized by four distinctive attributes: 'Sepal length,' 'Sepal width,' 'Petal length,' and 'Petal width.' The primary objective of the iris flower classification involves prognosticating flower types by leveraging their distinct attributes.
